@@ -46,3 +46,4 @@ Github Username | FAS Username
 [trustywolf](https://github.com/trustywolf) | [trustywolf](https://fedoraproject.org/wiki/User:trustywolf)
 [suiwenfeng](https://github.com/suiwenfeng) | [suiwenfeng](https://fedoraproject.org/wiki/User:suiwenfeng)
 [n0vad3v](https://github.com/n0vad3v) | [jonasguo](https://fedoraproject.org/wiki/User:jonasguo)
+[paper318](https://github.com/paper318) | [paper318]
